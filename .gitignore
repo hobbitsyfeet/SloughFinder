@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.tiff
+*.xml
+*.jp2
+*.gml
+*.png
+*.xsl
+*.zip
+sentinel/S2A_MSIL1C_20200430T190921_N0209_R056_T11VMC_20200430T224656.SAFE/GRANULE/L1C_T11VMC_A025364_20200430T191705/AUX_DATA/AUX_ECMWFT
+*.jpg
+*.html
+*.safe
+*.tif

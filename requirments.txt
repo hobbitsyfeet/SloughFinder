@@ -1,0 +1,4 @@
+sentinelsat>=0.13
+matplotlib
+rasterio
+numpy
