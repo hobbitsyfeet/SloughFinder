@@ -2,13 +2,13 @@
 Personal Project
 
 #Install Pip and dependencies
+```
 python -m pip install --upgrade pip
-
 cd ./deps
 python -m pip install GDAL-3.0.4-cp36-cp36m-win_amd64.whl
 python -m pip install rasterio-1.1.3-cp36-cp36m-win_amd64.whl
 python -m pip install -r requirments.txt
-
+```
 
 #Sentinel 2 file naming conventions:
 MMM_MSIXXX_YYYYMMDDHHMMSS_Nxxyy_ROOO_Txxxxx_<Product Discriminator>.SAFE
